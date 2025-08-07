@@ -27,7 +27,8 @@ With experience in building modern applications using various programming langua
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gifary500D&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gifary500D&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=gifary500D&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gifary500D)](https://git.io/streak-stats)
 
 ---
 
