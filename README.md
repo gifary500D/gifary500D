@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gifary500D&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gifary500D&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=gifary500D&theme=tokyonight)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gifary500D&layout=compact&theme=tokyonight)
