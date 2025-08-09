@@ -44,14 +44,7 @@ With experience in building modern applications using various programming langua
 
 ---
 
-## 🔥 Featured Projects
 
-<!-- Tambahkan proyek GitHub kamu di sini -->
-- 🎯 [Coffee Shop Website](https://github.com/gifary500D/coffee-shop)
-- 📱 [SPK Flutter App - Weighted Product](https://github.com/gifary500D/spk-flutter-wp)
-- 🧮 [SPK Java - VIKOR Method](https://github.com/gifary500D/spk-java-vikor)
-
----
 
 ## 📫 How to Reach Me
 
