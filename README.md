@@ -15,11 +15,8 @@ With experience in building modern applications using various programming langua
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat&logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
 
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=gifary500D&theme=radical&no-frame=true&column=7)
 
 ---
 
@@ -32,11 +29,6 @@ With experience in building modern applications using various programming langua
 
 ---
 
-## 🗓️ Daily Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 ## 📈 Profile Visitors
 
