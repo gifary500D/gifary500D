@@ -14,19 +14,15 @@
 
 ## 🚀 About Me
 
-```typescript
-const muhammadGifary = {
-    pronouns: "He/Him",
-    location: "Indonesia 🇮🇩",
-    role: "Frontend Developer",
-    languages: ["TypeScript", "PHP", "Java", "Dart"],
-    frameworks: ["SvelteKit", "Flutter", "TailwindCSS", "Bootstrap"],
-    tools: ["XAMPP", "Laragon", "NetBeans", "Android Studio", "VS Code", "Figma"],
-    databases: ["MySQL"],
-    currentFocus: "Building responsive web and mobile applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+Halo! Saya Muhammad Gifary, seorang **Frontend & Mobile Developer** yang bersemangat dari Indonesia 🇮🇩
+
+🎯 **Passion:** Membangun aplikasi web yang responsif dan aplikasi mobile yang user-friendly  
+💡 **Specialty:** Mengembangkan UI/UX yang menarik dengan performa yang optimal  
+📱 **Focus:** Membuat aplikasi cross-platform dengan Flutter dan web modern dengan SvelteKit  
+🌱 **Currently Learning:** Advanced TypeScript patterns dan Mobile App Development  
+⚡ **Fun Fact:** Saya percaya bahwa code yang bersih adalah seni, dan saya suka mengeksplorasi teknologi terbaru!
+
+> *"Setiap bug adalah kesempatan untuk belajar sesuatu yang baru"* 💭
 
 ---
 
@@ -45,12 +41,11 @@ const muhammadGifary = {
 
 ### 🗄️ Database & Server
 <img src="https://skillicons.dev/icons?i=mysql" />
-<br>
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="48" height="48" alt="XAMPP" />
 
 ### 🔧 Tools & IDE
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netbeans" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laragon/laragon-original.svg" width="48" height="48" alt="Laragon" />
 
 </div>
 
@@ -89,9 +84,9 @@ const muhammadGifary = {
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
-- 🚀 Build 5 production-ready Flutter applications
+- 🚀 Build 5 production-ready applications and Website
 - 📚 Master advanced TypeScript patterns  
 - 📱 Launch my first mobile app on Play Store
 - 🎨 Improve UI/UX design skills with Figma
