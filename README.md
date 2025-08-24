@@ -41,11 +41,11 @@ Halo! Saya Muhammad Gifary, seorang **Frontend & Mobile Developer** yang bersema
 
 ### 🗄️ Database & Server
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="48" height="48" alt="XAMPP" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white&width=48&height=48" alt="XAMPP" />
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=windows&logoColor=white&width=48&height=48" alt="Laragon" />
 
 ### 🔧 Tools & IDE
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netbeans" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laragon/laragon-original.svg" width="48" height="48" alt="Laragon" />
 
 </div>
 
@@ -84,9 +84,9 @@ Halo! Saya Muhammad Gifary, seorang **Frontend & Mobile Developer** yang bersema
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2024 Goals
 
-- 🚀 Build 5 production-ready applications and Website
+- 🚀 Build 5 production-ready Flutter applications
 - 📚 Master advanced TypeScript patterns  
 - 📱 Launch my first mobile app on Play Store
 - 🎨 Improve UI/UX design skills with Figma
