@@ -1,18 +1,10 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Muhammad Gifary
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+%26+Mobile+Developer;From+Indonesia+🇮🇩;Always+Learning+New+Things!;" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+%26+Mobile+Developer;From+Indonesia+🇮🇩;Always+Learning+New+Things!;color=FF6B6B" />
 </div>
 
 <br>
-
-<div align="center">
-  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</div>
 
 ---
 
@@ -22,11 +14,12 @@
 const muhammadGifary = {
     pronouns: "He/Him",
     location: "Indonesia 🇮🇩",
-    role: "Full Stack Developer",
-    languages: ["TypeScript", "PHP", "Java", "Dart"],
-    frameworks: ["Flutter", "SvelteKit", "Laravel", "Spring Boot"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    currentFocus: "Building scalable mobile and web applications",
+    role: "Frontend Developer",
+    languages: ["TypeScript", "PHP", "Java", "Dart", "JavaScript"],
+    frameworks: ["SvelteKit", "Flutter", "TailwindCSS", "Bootstrap"],
+    tools: ["XAMPP", "Laragon", "NetBeans", "Android Studio", "VS Code", "Figma"],
+    databases: ["MySQL"],
+    currentFocus: "Building responsive web and mobile applications",
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
@@ -38,22 +31,19 @@ const muhammadGifary = {
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=typescript,php,java,dart,javascript,python" />
+<img src="https://skillicons.dev/icons?i=typescript,php,java,dart,javascript" />
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=svelte,html,css,tailwind,bootstrap,sass" />
-
-### ⚡ Backend Development
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=svelte,html,css,tailwind,bootstrap" />
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-### 🔧 Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+### 🔧 Tools & IDE
+<img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netbeans" />
 
 </div>
 
@@ -92,62 +82,13 @@ const muhammadGifary = {
 
 ---
 
-## 💼 What I'm Working On
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Muhammad Gifary))
-    Web Development
-      SvelteKit Projects
-      TypeScript Apps
-      Responsive Design
-    Mobile Development
-      Flutter Apps
-      Cross-platform Solutions
-      UI/UX Implementation
-    Backend Development
-      API Development
-      Database Design
-      Server Architecture
-    Learning
-      New Technologies
-      Best Practices
-      Industry Trends
-```
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/gifary500D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gifary500D&repo=your-repo-name&theme=radical&hide_border=true" alt="Featured Project 1">
-  </a>
-  <a href="https://github.com/gifary500D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gifary500D&repo=your-repo-name-2&theme=radical&hide_border=true" alt="Featured Project 2">
-  </a>
-</div>
-
----
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🎯 2024 Goals
 
 - 🚀 Build 5 production-ready Flutter applications
-- 📚 Master advanced TypeScript patterns
-- 🌐 Contribute to 10+ open source projects
+- 📚 Master advanced TypeScript patterns  
 - 📱 Launch my first mobile app on Play Store
-- 🎨 Improve UI/UX design skills
+- 🎨 Improve UI/UX design skills with Figma
+- 💼 Create more responsive web applications with SvelteKit
 
 ---
 
@@ -156,9 +97,8 @@ mindmap
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-gifary024@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gifary024@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portofolio-ivory-two.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portofolio-gifary.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gif_ry02)
 
 </div>
 
