@@ -1,7 +1,11 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm Muhammad Gifary
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+%26+Mobile+Developer;From+Indonesia+🇮🇩;Always+Learning+New+Things!;color=FF6B6B" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Web+%26+Mobile+Developer;From+Indonesia+🇮🇩;Always+Learning+New+Things!&color=FF6B6B&background=00000000" />
+</div>
+
+<div align="center">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 <br>
@@ -15,7 +19,7 @@ const muhammadGifary = {
     pronouns: "He/Him",
     location: "Indonesia 🇮🇩",
     role: "Frontend Developer",
-    languages: ["TypeScript", "PHP", "Java", "Dart", "JavaScript"],
+    languages: ["TypeScript", "PHP", "Java", "Dart"],
     frameworks: ["SvelteKit", "Flutter", "TailwindCSS", "Bootstrap"],
     tools: ["XAMPP", "Laragon", "NetBeans", "Android Studio", "VS Code", "Figma"],
     databases: ["MySQL"],
@@ -31,7 +35,7 @@ const muhammadGifary = {
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=typescript,php,java,dart,javascript" />
+<img src="https://skillicons.dev/icons?i=typescript,php,java,dart" />
 
 ### 🎨 Frontend Development
 <img src="https://skillicons.dev/icons?i=svelte,html,css,tailwind,bootstrap" />
@@ -39,8 +43,11 @@ const muhammadGifary = {
 ### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
 
-### 🗄️ Database
+### 🗄️ Database & Server
 <img src="https://skillicons.dev/icons?i=mysql" />
+<br>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
+<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
 
 ### 🔧 Tools & IDE
 <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,netbeans" />
