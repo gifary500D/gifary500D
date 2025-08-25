@@ -84,7 +84,7 @@ Halo! Saya Muhammad Gifary, seorang **Frontend & Mobile Developer** yang bersema
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
 - 🚀 Build 5 production-ready Flutter applications
 - 📚 Master advanced TypeScript patterns  
